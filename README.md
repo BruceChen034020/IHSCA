@@ -8,5 +8,5 @@
 <br>International Horizons and Strategy Common Analysis
 <br>因特內勝爾或瀨曾思恩思特拉咖滿安爾利西斯
 <br>英特耐尋諾 猴如艾怎斯 恩得  斯抓特局 康門 恩孬肋思議思
-<br>インタナショナルホラインズンズアンドスドラデジコモンアナリシス
+<br>インターナショナルホライズンズアンドストラテジーコモンアナリシス
 <br>internationale Horizonte und Strategieanalyse
