@@ -9,5 +9,7 @@ IHSCA<br>
 <br>International Horizons and Strategy Common Analysis
 <br>因特內勝爾或瀨曾思恩思特拉咖滿安爾利西斯
 <br>英特耐尋諾 猴如艾怎斯 恩得  斯抓特局 康門 恩孬肋思議思
+<br>引牠內顯喔~ 猴來怎知? 安得死嘴的蛆? 看門! 按那裡, 西施!
 <br>インターナショナルホライズンズアンドストラテジーコモンアナリシス
 <br>internationale Horizonte und Strategieanalyse Verein
+<br><br><br><br>為校爭光! 為國爭光!<br>佔領全世界!
