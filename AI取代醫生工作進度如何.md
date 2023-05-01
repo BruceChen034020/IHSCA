@@ -203,6 +203,7 @@
 - Bing Orchestrator根據查詢從Bing提供的Index, Ranking & Answers中選擇最佳的答案
 - Bing Orchestrator將答案傳回給ChatGPT，並生成一個友好、自然和有用的回覆
 - ChatGPT將回覆傳回給使用者
+
 <br>可能有以下幾個原因造成ChatGPT+Bing比ChatGPT的光穎分數高了7分：
 - ChatGPT+Bing可以利用Bing的網路資源來回答更多和更準確的問題，而不僅僅依賴自己的內部知識或記憶。
 - ChatGPT+Bing可以根據用戶的語言和地區來適當地調整回答的內容和風格，而不是只使用英語或美式文化。
