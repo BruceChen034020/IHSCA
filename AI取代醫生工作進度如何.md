@@ -172,6 +172,10 @@
 <br>
 <br>我注意到ChatGPT+Bing從第4題開始不再使用搜尋工具，並且表現明顯提升(+1.1分/題)。另外，ChatGPT從第9題開始回答變很長，表現也提升(+1.5分/題)。這可能是Prometheus模型在不使用Bing的情況下表現比較好，而前面prompting不夠，後來機器才學到不要使用Bing搜尋。其中，每題回答完並無提供回饋(reinforcement)，屬於in-context learning without label。所以，我把第1到3題再次給機器回答。結果每題得分見圖二。
 <br>
+<p></p>
+<p>圖二</p>
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖二.png">
+<p></p>
 <br>第2次回答時ChatGPT+Bing沒使用搜尋工具，而ChatGPT則是回到較短的回答。兩者的表現都明顯提升(+1.0分/題; +1.0分/題)。
 <br>
 <br>作答時間(inference time)上，ChatGPT+Bing和ChatGPT大部分都在1分鐘內，所有作答都在3分鐘內。6A大部分(70%)都在3分鐘內，所有作答都在10分鐘內。
