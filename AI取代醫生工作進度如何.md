@@ -174,7 +174,7 @@
 <br>
 <p></p>
 <p>圖二</p>
-<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖二.png">
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖2.png">
 <p></p>
 <br>第2次回答時ChatGPT+Bing沒使用搜尋工具，而ChatGPT則是回到較短的回答。兩者的表現都明顯提升(+1.0分/題; +1.0分/題)。
 <br>
