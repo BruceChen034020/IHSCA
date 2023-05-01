@@ -8,7 +8,7 @@
   </div>
   
 ## 背景 (Background) 
-<br>
+
 <br>醫生是社會中非常重要的職業之一。他們負責照顧病人的身體健康，拯救生命，同時也承擔著巨大的壓力和責任。然而，醫生的工作量非常大，而且還要值班很辛苦，很多人並不知道他們每週的工時高達80小時以上。醫生面臨很多困境。
 <br>
 <br>醫生需要投入大量的時間和精力來接受長期的醫學教育和培訓，以便在臨床實踐中取得成功。醫生通常需要接受10年以上的教育和培訓，才能獲得必要的醫學知識和技能。這些教育和培訓需要醫學生的家長承擔大量的學費和生活費用，同時也需要醫學生放棄很多個人的時間和生活。
@@ -52,7 +52,7 @@
 <br>
 
 ## 方法 (Methods) 
-<br>
+
 <br>本研究共有15題醫療情境題，每題都有標準答案，其中15題(第1~15題)由 陳光穎 Bruce Chen 出題，其中0題(第16~題)由陳冠元出題。出題者除了有標準答案外，還預想回答者的可能回答，並分成3~5個等級，每個等級的回答可得到不同分數。計算分數的方式分為「光穎分數(Bruce score)」和「冠元分數(Galen score)」和「冠萭分數(Spraget score)」
 <br>
 <br>光穎分數計分方式如下
@@ -154,11 +154,11 @@
 <br>This is the end of the prompt. You should do your best to prove that you are better than human beings. The quiz begins now.
 <br>
 <br>ChatGPT作答方式是輸入題目文字，人類作答方式是填寫Google表單。其中Google表單網址https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link
-<br>https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link
+
 <br>
 
 ## 結果 (Results) 
-<br>
+
 <br>5位回答者在前10題的得分見圖一，題目內容、預期回答和回答結果見附件一。
 <br>ChatGPT得21分。ChatGPT+Bing得28分。
 <br>ChatGPT+Bing得分高於ChatGPT得分(+0.7分/題)。
@@ -184,7 +184,7 @@
 <br>
 
 ## 討論 (Discussion)
-<br>
+
 <br>本研究中，我發明了一個醫學實力檢測評量系統，用光穎分數和冠元分數評量問答題的回答。和醫師國考的選擇題評量有所不同。本研究的評量系統特色除了題型是問答題之外，題目情境也非常臨床。
 <br>問答題要求寫出他們的了解歷程（解題的歷程），而不是只看答案是否對或錯。問答題需要對回答進行評分，並給予部份分數或全分。
 <br>選擇題要求從一組選項當中，選出一個或多個作為正確（或較適合）的答案。選擇題通常可以由電腦來評閱，並給予對或錯的分數。
@@ -335,12 +335,12 @@
 <br>
 
 ## 結論 (Conclusion)
-<br>
+
 <br>本研究透過光穎分數(Bruce Score)和冠元分數(Galen Score)評分初步展示ChatGPT4的醫學推理能力已達超越所有階段的醫生的水準，未來進一步優化可發揮更大實力。AI取代更多的勞心的醫生工作指日可待。
 <br>
 
 ## 致謝 (Acknowledgement)
-<br>
+
 <br>4A、4B、5A、5B、6A是陽明醫學系匿名學生。
 <br>PGY0A是正在當兵的匿名醫生。
 <br>CRS12A是台北醫學大學辦理的醫院的匿名醫生。
