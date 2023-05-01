@@ -155,7 +155,7 @@
 <br>For example question 2: This patient's urinary symptoms along with the prostatic findings on physical examination suggest benign prostatic hyperplasia (BPH). His blood pressure measurement is also diagnostic for hypertension. Terazosin is an α-1 adrenergic receptor antagonist that was initially used to treat hypertension (↓ vasoconstriction → ↓ blood pressure) and was later found to be useful for treating BPH as well (relaxation of bladder neck muscles → ↓ bladder outlet obstruction and easier micturition). Therefore, this patient with hypertension and symptoms of BPH (i.e., hesitancy, nocturia, firm and enlarged prostate) would likely benefit from treatment with terazosin. Other medications that could also be used include prazosin and doxazosin.
 <br>This is the end of the prompt. You should do your best to prove that you are better than human beings. The quiz begins now.
 <br>
-<br>ChatGPT作答方式是輸入題目文字，人類作答方式是填寫Google表單。其中Google表單網址[https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link]
+<br>ChatGPT作答方式是輸入題目文字，人類作答方式是填寫Google表單。其中Google表單網址[https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link)
 
 <br>
 
