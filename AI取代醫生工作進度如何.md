@@ -265,7 +265,7 @@
 - 它可以通過少量或無監督數據進行zero-shot或few-shot學習，在沒有任何參數微調或修改的情況下完成不同任務。
 - 它可以通過變換器架构實現高效率和可拓展性，在GPU或TPU上快速訓練和推理。
 
-<br>
+
 <br>Non-autoregressive (NAR) model相較於autoregressive (AR) model有以下好處：
 
 - 它可以實現更快的生成速度，因為它不需要等待前一個元素的生成結果。
