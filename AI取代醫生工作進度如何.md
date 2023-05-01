@@ -162,14 +162,13 @@
 ## 結果 (Results) 
 
 5位回答者在前10題的得分見圖一，題目內容、預期回答和回答結果見附件一。
+<br>ChatGPT得21分。ChatGPT+Bing得28分。
+<br>ChatGPT+Bing得分高於ChatGPT得分(+0.7分/題)。
 <br>
 <p></p>
 <p>圖一</p>
 <img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_%E5%9C%961.png">
 <p></p>
-<br>ChatGPT得21分。ChatGPT+Bing得28分。
-<br>ChatGPT+Bing得分高於ChatGPT得分(+0.7分/題)。
-<br>
 <br>我注意到ChatGPT+Bing從第4題開始不再使用搜尋工具，並且表現明顯提升(+1.1分/題)。另外，ChatGPT從第9題開始回答變很長，表現也提升(+1.5分/題)。這可能是Prometheus模型在不使用Bing的情況下表現比較好，而前面prompting不夠，後來機器才學到不要使用Bing搜尋。其中，每題回答完並無提供回饋(reinforcement)，屬於in-context learning without label。所以，我把第1到3題再次給機器回答。結果每題得分見圖二。
 <br>
 <p></p>
@@ -184,15 +183,32 @@
 <br>ChatGPT4+Bing得43分 / 60分。
 <br>其中4題ChatGPT4+Bing的光穎分數不如人類回答者平均。
 <br>
+<p></p>
+<p>圖三</p>
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖3.png">
+<p></p>
 <br>Bing不搜尋時給出的答案平均光穎分數較高(+0.7分/題)。事實上，Bing的回答是否使用搜索工具與其光穎分數之間的因果關係並不明確。這可能是因為搜索詞語不夠明確或者搜索詞語與實際想要的答案不太相關。此外，有時候搜索結果可能會過於廣泛或者過於專注於某一方面，而沒有提供所需的具體信息，因此降低光穎分數。
 <br>另外，在某些情況下，Bing可能會使用搜索工具來查找答案，但在其他情況下，Bing可能會直接從其知識庫中提取答案。此外，Bing的自然語言處理技術也可以提供更準確和有用的答案。Bing判斷使用搜索工具的情況的題目可能本身就很難取得較高的光穎分數。
 <br>為了區分這2者可能，我把Bing有搜尋的題目和Bing沒搜尋的題目分開計算平均，如圖三。結果顯示原因傾向後者，因為其他回答者在有Bing搜尋的題目得分平均比較低。
 <br>
 <br>ChatGPT4+Bing每題都在1分鐘內作答完成，其作答時間和人類比較見圖四。ChatGPT4+Bing的速度和年資11年的主治醫師相當。
 <br>
+<p></p>
+<p>圖四</p>
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖4.png">
+<p></p>
 <br>醫學生和醫生在受訓過程中的每題平均光穎分數變化如圖五(藍粗線)，PGY是醫學通才能力的高峰。主治醫師雖然隨著年資累積次專科專業知識，但是通才能力有衰退。次專科專業知識不屬本研究範圍。
 <br>ChatGPT在受訓過程中的每題平均光穎分數變化如圖六(藍粗線)，ChatGPT的醫學知識在持續成長。離線版的ChatGPT實力與clerk相當，連線後實力超過各階段醫生。
 <br>
+<p></p>
+<p>圖五</p>
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖5.png">
+<p></p>
+<br>
+<p></p>
+<p>圖六</p>
+<img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_圖6.png">
+<p></p>
 
 ## 討論 (Discussion)
 
