@@ -268,7 +268,7 @@
 <br>要讓ChatGPT在醫療輔助診斷的任務上表現更出色，可能可以使用更適合醫療輔助診斷的prompt方法。本研究未嘗試Self-consistency、Spraget prompting和Least-to-most prompting，未來可以嘗試。另外，instruction-tuning和in-context learning還有很多不同變化，如使用不同的指令模板來提高模型的表現、In-Context Instruction Learning (ICIL)、使用不同的語義先驗或輸入-標籤映射來影響模型的學習過程等，Chain-of-thought prompting (CoT)也有很多變形。不過GPT-4的輸出比GPT-3收斂，可能限制self-consistency的投票選擇。 
 <br>除了人為產生的hard prompt之外，也可以用soft prompt或用reinforcement learning (RL)或大型語言模型(LM)尋找promt。Hard prompt需要手工設計和選擇合適的prompt，並且可能無法充分利用模型的能力。機器可以通過優化soft prompt來提高模型的表現，並且可以與hard prompt結合使用，但是在ChatGPT如何輸入這些非文字的token向量又是另一個問題。機器學習可以系統地探索prompt空間，並且可以生成一些人類難以想到或理解的prompt。
 <br>
-<br>GPT4 Prometheus有8個交談樣式：聊天富有創意、聊天平衡、聊天精確、撰寫很專業、撰寫悠閒、撰寫熱情、撰寫新聞、撰寫有趣、處理文字簡訊，其中撰寫交談樣式又可以調整格式和長度，處理文字簡訊又分為解釋、修改、擴展。格式包括段落、電子郵件、部落格文章、構想，長度包括短、中、長。考慮各可調整的參數後共有66個交談樣式。本研究僅嘗試了聊天精確的交談樣式，未來可嘗試其他65個交談樣式。
+<br>GPT4 Prometheus有9個交談樣式：聊天富有創意、聊天平衡、聊天精確、撰寫很專業、撰寫悠閒、撰寫熱情、撰寫新聞、撰寫有趣、處理文字簡訊，其中撰寫交談樣式又可以調整格式和長度，處理文字簡訊又分為解釋、修改、擴展。格式包括段落、電子郵件、部落格文章、構想，長度包括短、中、長。考慮各可調整的參數後共有66個交談樣式。本研究僅嘗試了聊天精確的交談樣式，未來可嘗試其他65個交談樣式。
 <br>
 <br>雖然直接使用ChatGPT可以保持模型權重不變，減少計算和存儲成本，並且可以在少量或無監督數據下進行zero-shot或few-shot學習，但是需要手工設計或自動搜索合適的prompt，並且可能無法充分發揮模型本身的能力。通常finetuning在單一任務的表現比prompting好，ChatGPT也可以在醫療領域進行finetune。finetune可以充分利用數據集的信息，提高模型的準確度和泛化能力。finetune的缺點是需要修改模型的權重，可能會降低模型在其他任務上的表現，並且需要較多的計算資源和存儲空間。若finetuning資料集的多樣性不夠，可能會影響其在未涵蓋的疾病領域的診斷正確性。
 <br>要finetune ChatGPT，可以使用OpenAI提供的Fine-tuning API，或者使用其他開源工具和庫。finetune ChatGPT的一般步驟如下：
