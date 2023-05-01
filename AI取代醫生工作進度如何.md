@@ -50,6 +50,7 @@
 <br>
 <br>本研究將透過醫院中醫療情境模擬題目，比較人類回答和ChatGPT回答，檢驗ChatGPT距離能夠提供全面且正確醫療建議的聊天機器人有多少距離，進而窺探AI在取代醫生工作的路途中，進度到了哪裡。
 <br>
+
 ## 方法 (Methods) 
 <br>
 <br>本研究共有15題醫療情境題，每題都有標準答案，其中15題(第1~15題)由 陳光穎 Bruce Chen 出題，其中0題(第16~題)由陳冠元出題。出題者除了有標準答案外，還預想回答者的可能回答，並分成3~5個等級，每個等級的回答可得到不同分數。計算分數的方式分為「光穎分數(Bruce score)」和「冠元分數(Galen score)」和「冠萭分數(Spraget score)」
@@ -155,6 +156,7 @@
 <br>ChatGPT作答方式是輸入題目文字，人類作答方式是填寫Google表單。其中Google表單網址https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link
 <br>https://docs.google.com/forms/d/e/1FAIpQLSd8hBjZodmeI1miospNhaPzAD6w9PclJuWsilvmzsWm1g1t0w/viewform?usp=sf_link
 <br>
+
 ## 結果 (Results) 
 <br>
 <br>5位回答者在前10題的得分見圖一，題目內容、預期回答和回答結果見附件一。
@@ -180,7 +182,8 @@
 <br>醫學生和醫生在受訓過程中的每題平均光穎分數變化如圖五(藍粗線)，PGY是醫學通才能力的高峰。主治醫師雖然隨著年資累積次專科專業知識，但是通才能力有衰退。次專科專業知識不屬本研究範圍。
 <br>ChatGPT在受訓過程中的每題平均光穎分數變化如圖六(藍粗線)，ChatGPT的醫學知識在持續成長。離線版的ChatGPT實力與clerk相當，連線後實力超過各階段醫生。
 <br>
-# 討論 (Discussion)
+
+## 討論 (Discussion)
 <br>
 <br>本研究中，我發明了一個醫學實力檢測評量系統，用光穎分數和冠元分數評量問答題的回答。和醫師國考的選擇題評量有所不同。本研究的評量系統特色除了題型是問答題之外，題目情境也非常臨床。
 <br>問答題要求寫出他們的了解歷程（解題的歷程），而不是只看答案是否對或錯。問答題需要對回答進行評分，並給予部份分數或全分。
@@ -330,11 +333,13 @@
 - 可能會違反醫療倫理和法律，例如侵犯個人隱私、濫用藥物、未經同意進行實驗等。
 <br>因此，我建議民眾在需要醫療幫助或意見時，請務必諮詢專業人士，不要盲目相信AI。AI只能作為一種參考工具，不能取代醫生的角色和責任。
 <br>
-# 結論 (Conclusion)
+
+## 結論 (Conclusion)
 <br>
 <br>本研究透過光穎分數(Bruce Score)和冠元分數(Galen Score)評分初步展示ChatGPT4的醫學推理能力已達超越所有階段的醫生的水準，未來進一步優化可發揮更大實力。AI取代更多的勞心的醫生工作指日可待。
 <br>
-# 致謝 (Acknowledgement)
+
+## 致謝 (Acknowledgement)
 <br>
 <br>4A、4B、5A、5B、6A是陽明醫學系匿名學生。
 <br>PGY0A是正在當兵的匿名醫生。
