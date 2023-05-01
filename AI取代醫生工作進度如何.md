@@ -162,6 +162,7 @@
 ## 結果 (Results) 
 
 5位回答者在前10題的得分見圖一，題目內容、預期回答和回答結果見附件一。
+<br>
 <p></p>
 <p>圖一</p>
 <img src="https://brucechen034020.github.io/IHSCA/AI%E5%8F%96%E4%BB%A3%E9%86%AB%E7%94%9F%E9%80%B2%E5%BA%A6%E5%A6%82%E4%BD%95_%E5%9C%961.png">
