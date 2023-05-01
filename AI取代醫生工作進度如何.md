@@ -53,7 +53,7 @@
 
 ## 方法 (Methods) 
 
-<br>本研究共有15題醫療情境題，每題都有標準答案，其中15題(第1~15題)由 陳光穎 Bruce Chen 出題，其中0題(第16~題)由陳冠元出題。出題者除了有標準答案外，還預想回答者的可能回答，並分成3~5個等級，每個等級的回答可得到不同分數。計算分數的方式分為「光穎分數(Bruce score)」和「冠元分數(Galen score)」和「冠萭分數(Spraget score)」
+<br>本研究共有15題醫療情境題，每題都有標準答案，其中15題(第1到15題)由 陳光穎 Bruce Chen 出題，其中0題(第16到題)由陳冠元出題。出題者除了有標準答案外，還預想回答者的可能回答，並分成3到5個等級，每個等級的回答可得到不同分數。計算分數的方式分為「光穎分數(Bruce score)」和「冠元分數(Galen score)」和「冠萭分數(Spraget score)」
 <br>
 <br>光穎分數計分方式如下
 <br>誤導 (Misleading, WA): 答案的一部分與事實或題目情境相反或使醫生在題目情境中不使用最佳治療方式或傷害病人。得1分。
@@ -163,13 +163,13 @@
 <br>ChatGPT得21分。ChatGPT+Bing得28分。
 <br>ChatGPT+Bing得分高於ChatGPT得分(+0.7分/題)。
 <br>
-<br>我注意到ChatGPT+Bing從第4題開始不再使用搜尋工具，並且表現明顯提升(+1.1分/題)。另外，ChatGPT從第9題開始回答變很長，表現也提升(+1.5分/題)。這可能是Prometheus模型在不使用Bing的情況下表現比較好，而前面prompting不夠，後來機器才學到不要使用Bing搜尋。其中，每題回答完並無提供回饋(reinforcement)，屬於in-context learning without label。所以，我把第1~3題再次給機器回答。結果每題得分見圖二。
+<br>我注意到ChatGPT+Bing從第4題開始不再使用搜尋工具，並且表現明顯提升(+1.1分/題)。另外，ChatGPT從第9題開始回答變很長，表現也提升(+1.5分/題)。這可能是Prometheus模型在不使用Bing的情況下表現比較好，而前面prompting不夠，後來機器才學到不要使用Bing搜尋。其中，每題回答完並無提供回饋(reinforcement)，屬於in-context learning without label。所以，我把第1到3題再次給機器回答。結果每題得分見圖二。
 <br>
 <br>第2次回答時ChatGPT+Bing沒使用搜尋工具，而ChatGPT則是回到較短的回答。兩者的表現都明顯提升(+1.0分/題; +1.0分/題)。
 <br>
 <br>作答時間(inference time)上，ChatGPT+Bing和ChatGPT大部分都在1分鐘內，所有作答都在3分鐘內。6A大部分(70%)都在3分鐘內，所有作答都在10分鐘內。
 <br>
-<br>有了先前的經驗，我知道多個無標註的in-context learning勝於少個精心設計的範例。所以，我把第1~5題的題目當prompt，用GPT4 Prometheus Mar 24更多精確的交談樣式(簡稱ChatGPT4+Bing)測試第1~15題。得分見圖三，題目內容、預期回答和回答結果見附件一。
+<br>有了先前的經驗，我知道多個無標註的in-context learning勝於少個精心設計的範例。所以，我把第1到5題的題目當prompt，用GPT4 Prometheus Mar 24更多精確的交談樣式(簡稱ChatGPT4+Bing)測試第1到15題。得分見圖三，題目內容、預期回答和回答結果見附件一。
 <br>ChatGPT4+Bing得43分 / 60分。
 <br>其中4題ChatGPT4+Bing的光穎分數不如人類回答者平均。
 <br>
