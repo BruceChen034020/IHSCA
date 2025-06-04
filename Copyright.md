@@ -1,5 +1,5 @@
 本網站未儲存您的來歷。看完請按瀏覽器的上一頁鍵返回。
-# Bruce Copyright Liscense 1.0
+# Bruce Copyright License 1.0
 最後修改日期: 2016/8/6
 ## 更新內容
 * 放棄公開發表權
@@ -15,7 +15,7 @@
     3. 您可以自由以任何形式改變、轉變或更改本作品。
 ```
 
-# Bruce Copyright Liscense 2.0
+# Bruce Copyright License 2.0
 最後修改日期: 2018/2/13
 ## 更新內容
 * 完全放棄著作人格權
@@ -31,7 +31,7 @@
       4. 您得為教育、娛樂、學術、公益、報導、評論目的而使用本作品，不限所利用之質量及其在整個著作所占之比例。
 ```
 
-# Bruce Copyright Liscense 3.0
+# Bruce Copyright License 3.0
 最後修改日期: 2022/9/19
 ## 更新內容
 * 與時俱進允許音樂remix
@@ -50,7 +50,7 @@
       6. 若您重混、轉換、改變、轉變或更改本作品，或依本作品建立新作品，您必須依本約定來散布您的貢獻物。
 ```
 
-# Bruce Copyright Liscense 3.1
+# Bruce Copyright License 3.1
 最後修改日期: 2023/7/1
 ## 更新內容
 * 針對基督教/福音相關作品設定
@@ -68,11 +68,11 @@
       6. 聖經是神的話，透過人手表達出來，和其他純人類創作的作品不同，使用時應存敬畏之心。
 ```
 
-# Modified Bruce Copyright Liscense 3.0
+# Modified Bruce Copyright License 3.0
 最後修改日期: 2025/6/4
 ## 更新內容
 * 針對欲維持在暗網之作品設定
-* 保留公開發表權、公開口述權、公開播送權、公開上映權、公開演出權、公開傳輸權、公開展示權，其餘和 Bruce Copyright Liscense 3.0 相同
+* 保留公開發表權、公開口述權、公開播送權、公開上映權、公開演出權、公開傳輸權、公開展示權，其餘和 Bruce Copyright License 3.0 相同
 
 ## 合約內容
 ```
